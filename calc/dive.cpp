@@ -1,7 +1,6 @@
 #include "dive.h"
-
+//나머지 몫 구하기 
 int dive(int x, int y)
 {
-	//오류 발생 위치
-	return x+y;
+	return x%y;
 }
