@@ -2,5 +2,6 @@
 
 int dive(int x, int y)
 {
-	return 0;
+	//오류 발생 위치
+	return x+y;
 }
