@@ -1,6 +1,6 @@
 #include "mod.h"
 
 int mod(int x, int y)
-{
-	return 0;
+{ //나누기 연산자
+	return x/y;
 }
